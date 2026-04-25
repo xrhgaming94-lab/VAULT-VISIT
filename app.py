@@ -44,7 +44,7 @@ MajorLoginRes = _globals2['MajorLoginRes']
 AES_KEY = bytes([89, 103, 38, 116, 99, 37, 68, 69, 117, 104, 54, 37, 90, 99, 94, 56])
 AES_IV = bytes([54, 111, 121, 90, 68, 114, 50, 50, 69, 51, 121, 99, 104, 106, 77, 37])
 
-GET_BACKPACK_URL = "https://client.ind.freefiremobile.com/GetBackpack"
+GET_BACKPACK_URL = "https://clientbp.ggpolarbear.com/GetBackpack"
 BODY_HEX = "1a725b2c56ec52ba7d09623454c0a003"
 BODY_BYTES = bytes.fromhex(BODY_HEX)
 
